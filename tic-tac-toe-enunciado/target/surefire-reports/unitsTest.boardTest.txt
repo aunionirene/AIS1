@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: unitsTest.boardTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.023 sec <<< FAILURE! - in unitsTest.boardTest
+ifwin(unitsTest.boardTest)  Time elapsed: 0.021 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at unitsTest.boardTest.ifwin(boardTest.java:60)
+
